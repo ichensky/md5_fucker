@@ -6,7 +6,7 @@
 
 # Commentary:
 
-# Decode illuminati cipher
+# Find salt of md5 hash
 
 # License:
 
